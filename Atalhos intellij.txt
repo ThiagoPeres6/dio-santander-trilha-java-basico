@@ -1,0 +1,45 @@
+				ATALHOS INTELLIJ
+
+___________________________________________________________________________________
+
+	Geral
+
+Alt + 1: 		Focar aba de projetos
+Alt + Shift + Insert: 	Alterna entre modo de seleção de linha/coluna
+Ctrl + Shift + F12: 	Expandir a tela
+
+___________________________________________________________________________________
+
+	Na aba Projetos
+
+Alt + Insert: 	Cria um novo arquivo (Classes, Pacotes, etc)
+F6:		Move um arquivo
+
+___________________________________________________________________________________
+
+	Templates de Código
+
+psvm: 			Criar método main
+sout: 			System.out.println()
+
+___________________________________________________________________________________
+
+	Na aba de Código
+
+Ctrl + Shift + F10: 	Executar a classe atual
+Shift + F10: 		Executar a classe main
+Ctrl + N:		Busca rápida de classes
+Ctrl + /:		Comentar código simples
+Ctrl + Shift + /: 	Comentar código composto
+Alt + Insert: 		Abre o menu Generate
+Ctrl + Y: 		Apaga a linha inteira
+Alt + Shift + Setas:	Mover linha atual
+Shift & Shift: 		Busca de tudo
+Alt + Enter: 		Sujestão de Intenção
+
+___________________________________________________________________________________
+
+	REFERENCIAS
+
+- http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea (formato tópicos)
+- https://www.alura.com.br/artigos/intellij-idea-dicas-truques-usar-no-dia-a-dia (formato tutorial)
